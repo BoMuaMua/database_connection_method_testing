@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: database_connection_method_testing
+  datasource:
+    url: jdbc:mysql://114.132.92.175:28426/database_connection_method_testing
+    username: test_user
+    password: Test@123456
